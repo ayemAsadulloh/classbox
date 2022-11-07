@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "classbox",
+			"path": ".."
+		},
+		{
+			"name": "images",
+			"path": "../../hamma uy ishi va vzifalar/trafalgar/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "classbox"
+	}
+}
